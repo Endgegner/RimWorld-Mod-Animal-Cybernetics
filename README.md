@@ -2,7 +2,7 @@
 
 This is a 6 kilobyte(!) blitz addon, which completely fills out all your needs on animal prothestics, with or without any other mod extension for that matter installed. Patches will only go off, when needed. While other mods add new items, this takes the vanilla Prothestics and treats them as both for animals and pawns. 
 
-Allows the installation of vanilla cybernetics on animals and makes specialized but loaded mods like 'A Dog Said' unnecessary. You may still keep and add such addons for more items, they won't interfere at all. 
+Allows the installation of vanilla cybernetics on animals and makes specialized but loaded mods like 'A Dog Said' unnecessary. You may still keep and add such addons for more items, they won't interfere at all. New Wings and Tails are great!
 
 [FSF] VBE and EPOE are supported. Rare Archotech is excluded (in most cases).
 
