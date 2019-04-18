@@ -85,8 +85,8 @@ GFX * by Sekko Da Vinci<br>
 
 ### In Short:
 
-##### Lightweight Animal Prothestics RimWorld Mod
-##### Replaces A Dog Said...
-##### Based on Lulu's Animal Cybernetics
-##### Supports Expanded Prosthetics and Organ Engineering in addition
-##### Changed to my personal taste
+Lightweight Animal Prothestics RimWorld Mod
+Replaces A Dog Said...
+Based on Lulu's Animal Cybernetics
+Supports Expanded Prosthetics and Organ Engineering in addition
+Changed to my personal taste
