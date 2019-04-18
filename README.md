@@ -1,4 +1,4 @@
-[h1]Animal Health Care & Prothestics[/h1]
+<h1>Animal Health Care & Prothestics</h1>
 
 This is a 6 kilobyte(!) blitz addon, which completely fills out all your needs on animal prothestics, with or without any other mod extension for that matter installed. Patches will only go off, when needed. While other mods add new items, this takes the vanilla Prothestics and treats them as both for animals and pawns. 
 
@@ -6,17 +6,17 @@ Allows the installation of vanilla cybernetics on animals and makes specialized 
 
 [FSF] VBE and EPOE are supported. Rare Archotech is excluded (in most cases).
 
-[i]You want a hydraulic jaw on your Warg? Well, me too.[/i] This mod makes that possible.
+<i>You want a hydraulic jaw on your Warg? Well, me too.</i> This mod makes that possible.
 
 Based on Lulu's Animal Cybernetics, which dissappeared from the Workshop for some reason. I really loved it and wanted to bring it back to the family with this enhanced version. Hope you enjoy.
 
-[b]Credits[/b]
+<i>Credits</i>
 
 Core & Idea * by Lulu
 Revived & Powered * by Trunken
 GFX * by Sekko Da Vinci
 
-[h1]List: Vanilla[/h1]
+<h1>List: Vanilla</h1>
 
 - Archotech Eye
 - Power Claw
@@ -36,7 +36,7 @@ GFX * by Sekko Da Vinci
 - Denture
 - Painstopper
   
-[h1]List: Expanded Prosthetics and Organ Engineering[/h1]
+<h1>List: Expanded Prosthetics and Organ Engineering</h1>
 
 - Power Arm
 - Advanced PowerArm
@@ -85,8 +85,10 @@ GFX * by Sekko Da Vinci
 - Archotech Stomach
 - Artificial Nose
 
-#### Lightweight Animal Prothestics RimWorld Mod
-#### replaces A Dog Said...
-#### Based on Lulu's Animal Cybernetics
-#### Supports Expanded Prosthetics and Organ Engineering in addition
-#### Changed to my personal taste
+In Short:
+
+##### - Lightweight Animal Prothestics RimWorld Mod
+##### - Replaces A Dog Said...
+##### - Based on Lulu's Animal Cybernetics
+##### - Supports Expanded Prosthetics and Organ Engineering in addition
+##### - Changed to my personal taste
