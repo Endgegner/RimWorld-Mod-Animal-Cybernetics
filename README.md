@@ -8,8 +8,6 @@ Allows the installation of vanilla cybernetics on animals and makes specialized 
 
 <i>You want a hydraulic jaw on your Warg? Well, me too.</i> This mod makes that possible.
 
-Based on Lulu's Animal Cybernetics, which dissappeared from the Workshop for some reason. I really loved it and wanted to bring it back to the family with this enhanced version. Hope you enjoy.
-
 <i>Credits</i>
 
 Core & Idea * by Lulu<br>
