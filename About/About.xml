@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ModMetaData>
+  <name>Animal Cybernetics</name>
+  <author>Trunken</author>
+  <url></url>
+  <supportedVersions><li>1.0</li></supportedVersions>
+  <description>&lt;color=#c970db&gt;&lt;b&gt;Animal Health Care &amp; Prothestics&lt;/b&gt;&lt;/color&gt;
+
+This is a 6 kilobyte(!) blitz addon, which completely fills out all your needs on animal prothestics, with or without any other mod extension for that matter installed. Patches will only go off, when needed. While other mods add new items, this takes the vanilla Prothestics and treats them as both for animals and pawns. 
+
+Allows the installation of vanilla cybernetics on animals and makes specialized but loaded mods like 'A Dog Said' unnecessary. You may still keep and add such addons for specialized items, they won't interfere at all. 
+
+[FSF] VBE and EPOE are supported. Rare Archotech is excluded (in most cases).
+
+&lt;i&gt;You want a hydraulic jaw on your Warg? Well, me too.&lt;/i&gt; This mod makes that possible.
+
+Based on Lulu's Animal Cybernetics, which dissappeared from the Workshop for some reason. I really loved it and wanted to bring it back to the family with this enhanced version. Hope you enjoy.
+
+&lt;b&gt;Credits&lt;/b&gt;
+
+Core &amp; Idea * by Lulu
+Powered * by Trunken
+GFX * by Sekko Da Vinci
+
+---
+
+&lt;b&gt;List: Vanilla&lt;/b&gt;
+
+- Archotech Eye
+- Power Claw
+- Bionic Eye
+- Bionic Arm
+- Bionic Leg
+- Bionic Spine
+- BionicHeart
+- BionicStomach
+- BionicEar
+- LightReceptor
+- SimpleProstheticLeg
+- SimpleProstheticHeart
+- CochlearImplant
+- PegLeg
+- WoodenFoot
+- Denture
+- Painstopper
+  
+&lt;b&gt;List: Expanded Prosthetics and Organ Engineering&lt;/b&gt;
+
+- Power Arm
+- Advanced PowerArm
+- Advanced Bionic Jaw
+- Simple Prosthetic Hand
+- Simple Prosthetic Foot
+- Hydraulic Jaw
+- Bionic Jaw
+- Advanced Bionic Jaw
+- Silent Jaw
+- Surrogate Lung
+- Surrogate Stomach
+- Surrogate Liver
+- Surrogate Kidney
+- Surrogate Heart
+- Synthetic Lung
+- Synthetic Stomach
+- Synthetic Liver
+- Synthetic Kidney
+- Synthetic Heart
+- Wooden Foot
+- EyePatch
+- EarBandage
+
+&lt;b&gt;List: [FSF] Vanilla Bionics Expansion&lt;/b&gt;
+
+- Bionic Power Arm
+- Bionic Jaw
+- Bionic Lung
+- Bionic Kidney
+- BionicLiver
+- Prosthetic Eye
+- Prosthetic Hand
+- ProstheticSpine
+- Simple Prosthetic Lung
+- Simple Prosthetic Kidney
+- Simple Prosthetic Liver
+- Simple Prosthetic Stomach
+- Archotech Ear
+- Archotech Jaw
+- Archotech Spine
+- Archotech Heart
+- Archotech Lung
+- Archotech Kidney
+- Archotech Liver
+- Archotech Stomach
+- Artificial Nose
+</description>
+</ModMetaData>
