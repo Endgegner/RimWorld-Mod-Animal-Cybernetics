@@ -12,9 +12,9 @@ Based on Lulu's Animal Cybernetics, which dissappeared from the Workshop for som
 
 <i>Credits</i>
 
-Core & Idea * by Lulu
-Revived & Powered * by Trunken
-GFX * by Sekko Da Vinci
+Core & Idea * by Lulu<br>
+Revived & Powered * by Trunken<br>
+GFX * by Sekko Da Vinci<br>
 
 <h1>List: Vanilla</h1>
 
