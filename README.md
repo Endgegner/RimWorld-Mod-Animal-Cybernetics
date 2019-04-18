@@ -74,12 +74,6 @@ GFX * by Sekko Da Vinci<br>
 - Simple Prosthetic Stomach
 - Archotech Ear
 - Archotech Jaw
-- Archotech Spine
-- Archotech Heart
-- Archotech Lung
-- Archotech Kidney
-- Archotech Liver
-- Archotech Stomach
 - Artificial Nose
 
 ### In Short:
