@@ -22,15 +22,15 @@ GFX * by Sekko Da Vinci<br>
 - Bionic Arm
 - Bionic Leg
 - Bionic Spine
-- BionicHeart
-- BionicStomach
-- BionicEar
-- LightReceptor
-- SimpleProstheticLeg
-- SimpleProstheticHeart
-- CochlearImplant
-- PegLeg
-- WoodenFoot
+- Bionic Heart
+- Bionic Stomach
+- Bionic Ear
+- Light Receptor
+- Simple Prosthetic Leg
+- Simple Prosthetic Heart
+- Cochlear Implant
+- Peg Leg
+- Wooden Foot
 - Denture
 - Painstopper
   
@@ -55,7 +55,6 @@ GFX * by Sekko Da Vinci<br>
 - Synthetic Liver
 - Synthetic Kidney
 - Synthetic Heart
-- Wooden Foot
 - EyePatch
 - EarBandage
 
