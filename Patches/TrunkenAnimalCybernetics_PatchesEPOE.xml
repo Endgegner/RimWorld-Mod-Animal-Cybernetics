@@ -30,7 +30,7 @@
             <li>InstallSyntheticLiver</li>
             <li>InstallSyntheticKidney</li>
             <li>InstallSyntheticHeart</li>
-            <li>InstallWoodenFoot</li>
+            <!-- <li>InstallWoodenFoot</li> -->
             <li>InstallEyePatch</li>
             <li>InstallEarBandage</li>
           </value>          

@@ -25,12 +25,12 @@
             <li>InstallFSFSimpleProstheticStomach</li>
             <li>InstallFSFArchotechEar</li>
             <li>InstallFSFArchotechJaw</li>
-            <li>InstallFSFArchotechSpine</li>
+            <!--<li>InstallFSFArchotechSpine</li>
             <li>InstallFSFArchotechHeart</li>
             <li>InstallFSFArchotechLung</li>
             <li>InstallFSFArchotechKidney</li>
             <li>InstallFSFArchotechLiver</li>
-            <li>InstallFSFArchotechStomach</li>
+            <li>InstallFSFArchotechStomach</li>-->
             <li>InstallFSFArtificialNose</li>
           </value>
         </li>
