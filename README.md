@@ -59,7 +59,7 @@ GFX * by Sekko Da Vinci<br>
 - EyePatch
 - EarBandage
 
-[h1]List: [FSF] Vanilla Bionics Expansion[/h1]
+<h1>List: [FSF] Vanilla Bionics Expansion</h1>
 
 - Bionic Power Arm
 - Bionic Jaw
