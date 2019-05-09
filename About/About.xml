@@ -8,23 +8,21 @@
 
 This is a 6 kilobyte(!) blitz addon, which completely fills out all your needs on animal prothestics, with or without any other mod extension for that matter installed. Patches will only go off, when needed. While other mods add new items, this takes the vanilla Prothestics and treats them as both for animals and pawns. 
 
-Allows the installation of vanilla cybernetics on animals and makes specialized but loaded mods like 'A Dog Said' unnecessary. You may still keep and add such addons for specialized items, they won't interfere at all. 
+Allows the installation of vanilla cybernetics on animals and makes specialized but loaded addons like 'A Dog Said' unnecessary. You can still keep and add these mods for more items, they won't interfere at all. New Wings and Tails are great!
 
 [FSF] VBE and EPOE are supported. Rare Archotech is excluded (in most cases).
 
 &lt;i&gt;You want a hydraulic jaw on your Warg? Well, me too.&lt;/i&gt; This mod makes that possible.
 
-Based on Lulu's Animal Cybernetics, which dissappeared from the Workshop for some reason. I really loved it and wanted to bring it back to the family with this enhanced version. Hope you enjoy.
+Based on Lulu's Animal Cybernetics, which dissappeared from the Workshop for some reason. I really loved it and wanted to bring it back to the family with this enhanced version. Hope you enjoy
 
 &lt;b&gt;Credits&lt;/b&gt;
 
 Core &amp; Idea * by Lulu
-Powered * by Trunken
+Enhanced * by Trunken
 GFX * by Sekko Da Vinci
 
----
-
-&lt;b&gt;List: Vanilla&lt;/b&gt;
+&lt;color=#ffed10&gt;&lt;b&gt;List: Vanilla&lt;/b&gt;&lt;/color&gt;
 
 - Archotech Eye
 - Power Claw
@@ -35,16 +33,15 @@ GFX * by Sekko Da Vinci
 - BionicHeart
 - BionicStomach
 - BionicEar
-- LightReceptor
-- SimpleProstheticLeg
-- SimpleProstheticHeart
+- Simple Prosthetic Leg
+- Simple Prosthetic Heart
 - CochlearImplant
 - PegLeg
-- WoodenFoot
+- Wooden Foot
 - Denture
 - Painstopper
   
-&lt;b&gt;List: Expanded Prosthetics and Organ Engineering&lt;/b&gt;
+&lt;color=#FFED10&gt;&lt;b&gt;List: Expanded Prosthetics and Organ Engineering&lt;/b&gt;&lt;/color&gt;
 
 - Power Arm
 - Advanced PowerArm
@@ -65,11 +62,11 @@ GFX * by Sekko Da Vinci
 - Synthetic Liver
 - Synthetic Kidney
 - Synthetic Heart
-- Wooden Foot
-- EyePatch
-- EarBandage
+- Light Receptor
+- Eye Patch
+- Ear Bandage
 
-&lt;b&gt;List: [FSF] Vanilla Bionics Expansion&lt;/b&gt;
+&lt;color=#FFED10&gt;&lt;b&gt;List: [FSF] Vanilla Bionics Expansion&lt;/b&gt;&lt;/color&gt;
 
 - Bionic Power Arm
 - Bionic Jaw
@@ -78,19 +75,36 @@ GFX * by Sekko Da Vinci
 - BionicLiver
 - Prosthetic Eye
 - Prosthetic Hand
-- ProstheticSpine
+- Prosthetic Spine
 - Simple Prosthetic Lung
 - Simple Prosthetic Kidney
 - Simple Prosthetic Liver
 - Simple Prosthetic Stomach
 - Archotech Ear
 - Archotech Jaw
-- Archotech Spine
-- Archotech Heart
-- Archotech Lung
-- Archotech Kidney
-- Archotech Liver
-- Archotech Stomach
 - Artificial Nose
+
+&lt;color=#FFED10&gt;&lt;b&gt;List: Archotech Expanded (or Prothestics)&lt;/b&gt;&lt;/color&gt;
+
+- Archotech Death Claw
+- Archotech Obliterator
+
+&lt;color=#3a9b71&gt;&lt;b&gt;Guide: Configurations&lt;/b&gt;&lt;/color&gt;
+
+Core + Animal Cybernetics
+Expanded Prosthetics and Organ Engineering + Bionic icons + Animal Cybernetics
+A Dog said + Expanded Prosthetics and Organ Engineering + Bionic icons + AnyC
+Vanilla Bionics Expansion + Prosthetic Table/Icons + Animal Cybernetics
+Vanilla Bionics Expansion + Archotech Exp. + Prosthetic Table/Icons + AnyC
+Vanilla Bionics Expansion + Arch. Exp. Prosthetics + Prosthetic Table/Icons + AnyC
+
+&lt;color=#3a9b71&gt;&lt;b&gt;Overview&lt;/b&gt;&lt;/color&gt;
+
+- Universally compatible with all animal mods!
+- Balanced and vanilla oriented
+- 100% savegame compatible
+- Can be easily deactivated again on a game in progress...
+
+and just adds animals on every described cybernetic/prothestic installation in the list
 </description>
 </ModMetaData>

@@ -3,7 +3,7 @@
 <Patch>
   <Operation Class="PatchOperationSequence">
     <operations>
-      <!-- Add vanilla recipes to base animal thing -->
+      <!-- Add vanilla recipes to base animal -->
       <li Class="PatchOperationAdd">
         <xpath>Defs/ThingDef[@Name="AnimalThingBase"]/recipes</xpath>
         <value>
@@ -16,7 +16,6 @@
           <li>InstallBionicHeart</li>
           <li>InstallBionicStomach</li>
           <li>InstallBionicEar</li> -->
-          <li>InstallLightReceptor</li>
           <li>InstallSimpleProstheticLeg</li>
           <li>InstallSimpleProstheticHeart</li>
           <li>InstallCochlearImplant</li>
@@ -40,7 +39,7 @@
         <value>
           <li>AnimalJaw</li>
           <li>Beak</li>
-          <li>SnakeMouth</li>
+          <li>SnakeMouth</li> 
           <li>TurtleBeak</li>
         </value>
       </li>

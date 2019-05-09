@@ -7,7 +7,7 @@
     </mods>
     <match Class="PatchOperationSequence">
       <operations>
-        <!-- Add VBE recipes to base animal thing -->
+        <!-- Add VBE recipes to base animal -->
         <li Class="PatchOperationAdd">
           <xpath>Defs/ThingDef[@Name="AnimalThingBase"]/recipes</xpath>
           <value>
@@ -25,12 +25,12 @@
             <li>InstallFSFSimpleProstheticStomach</li>
             <li>InstallFSFArchotechEar</li>
             <li>InstallFSFArchotechJaw</li>
-            <!--<li>InstallFSFArchotechSpine</li>
+            <!-- <li>InstallFSFArchotechSpine</li>
             <li>InstallFSFArchotechHeart</li>
             <li>InstallFSFArchotechLung</li>
             <li>InstallFSFArchotechKidney</li>
             <li>InstallFSFArchotechLiver</li>
-            <li>InstallFSFArchotechStomach</li>-->
+            <li>InstallFSFArchotechStomach</li> -->
             <li>InstallFSFArtificialNose</li>
           </value>
         </li>
